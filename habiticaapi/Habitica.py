@@ -21,7 +21,7 @@ class Habitica(object):
 
 
 if __name__ == "__main__":
-    habitica = Habitica("64df109a-d760-49ec-99a2-ab46f6682ffc", "e2c0f281-8edf-42e1-825e-3166e818b26f")
+    habitica = Habitica("", "")
 
     print(habitica.status())
 
